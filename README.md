@@ -78,17 +78,6 @@ Currently focused on:
 
 # 📌 Featured Projects
 
-### 🏋️ MG Fit
-
-Fitness Operating System
-
-- Workout management
-- Nutrition
-- Progress tracking
-- Modern dashboard
-
----
-
 ### 🌐 MG Labs
 
 Modern web agency focused on:
