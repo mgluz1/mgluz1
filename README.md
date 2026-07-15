@@ -97,12 +97,6 @@ Automation platform designed to simplify legal workflows through Artificial Inte
 
 ---
 
-### 💪 MG Fit
-
-A modern fitness operating system focused on workout tracking, nutrition and personal progress.
-
----
-
 ## 📚 Currently Learning
 
 - Next.js
