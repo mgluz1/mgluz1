@@ -50,28 +50,34 @@ Currently focused on:
 
 # 🛠 Tech Stack
 
-### Frontend
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,c,html,css" />
 </p>
 
-### Backend
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
-### Tools
+### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 </p>
 
 ---
