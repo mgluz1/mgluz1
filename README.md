@@ -2,16 +2,6 @@
   <img src="./assets/banner.svg" alt="Miguel Fernando Luz" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Miguel Luz</h1>
-
-<h3 align="center">
-Computer Science Student • Full Stack Developer • AI Enthusiast
-</h3>
-
-<p align="center">
-Building modern web experiences, automation tools and AI-powered solutions.
-</p>
-
 ---
 
 ## 👨🏻‍💻 About Me
