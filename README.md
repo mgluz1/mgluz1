@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Miguel Fernando Luz — Web Development, AI & Automation" width="100%">
+  <img src="./assets/banner-miguel-luz.png" alt="Miguel Fernando Luz — Web Development, AI & Automation" width="100%">
 </p>
 
 <div align="center">
